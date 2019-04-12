@@ -1,12 +1,12 @@
-# Your Project Title Here
+# Carbon Dioxide Cycle Simulation
 
-One-sentence summary of your project goes here. Then, make sure you have each of these sections completed:
+Interactive Carbon Dioxide Cycle Simulation
 
 ## Summary
 
-Here, write a few paragraphs (half a page?) or so describing the goals of your project. 
+The goals of my project is building interactive simulation of carbon dioxide cycle. I'm interested in environmental issues, and I have learned about climate science. One science article said that today's startegy of learning science is different from the past. In the past it was about studying textbook, but today science communities have tried to appeal based on entertainment such as game, and interactive story-telling.
 
-Include a discussion how it will be interactive or responsive to the environment.
+It will be interactive screen-based media. It could be website or installation using projector.
 
 ## Component Parts
 
