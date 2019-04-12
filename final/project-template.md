@@ -10,13 +10,17 @@ It will be interactive screen-based media. It could be website or installation u
 
 ## Component Parts
 
-From what pieces will you build your project? Will you build or buy those pieces?
+data: cycle simulation of carbon dioxide
+inputs: mouse hover
+outputs: change the values of cycle, and influence whole screen.
 
-Include what types of inputs/outputs/data it will use, and a block diagram showing how all those pieces are connected.
+
+
+
 
 ## Challenges
 
-1. Making visual simulation 
+1. Making cycle simulation 
 2. Adding interactive elements on the simulation.
 
 ## Timeline
@@ -25,8 +29,8 @@ What parts of the project do you anticipate you will complete in each of the nex
 
 - Week 1: Write proposal
 - Week 2: Finding references
-- Week 3: First Prototyping; building simulation 
-- Week 4: Second Prototyping; adding simulation, and refining graphics
+- Week 3: First Prototyping; building cycle simulation 
+- Week 4: Second Prototyping; adding interactive elements, and refining graphics
 - Week 5: Present!
 
 ## References and link
